@@ -9,7 +9,7 @@
 
 ## 📄 License
 
-This project is licensed under the [🔹MIT License](https://github.com/Cyberobo/Download-Manager-File-Converter-App-Final-Project/blob/main/License.txt)
+This project is licensed under the [🔹MIT License](https://github.com/Cyberobo/ToDo-App/blob/main/License.txt)
 
 ---
 
